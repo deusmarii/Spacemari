@@ -1,6 +1,7 @@
 roses are red 
 snows are white 
 and sky is blue
+there is many objects 
 
 
 yes that's perfect 
