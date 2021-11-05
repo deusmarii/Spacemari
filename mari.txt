@@ -1,4 +1,6 @@
 roses are red 
 snows are white 
+and sky is blue
+
 
 yes that's perfect 
